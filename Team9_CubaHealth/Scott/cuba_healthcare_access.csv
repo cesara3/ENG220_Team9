@@ -1,0 +1,19 @@
+location,place_fips,measure_id,measure,data_year,release_year,percent,ci95_low,ci95_high,age_adjusted_percent,age_adjusted_ci95_low,age_adjusted_ci95_high,estimate_type,source_url
+Cuba,3519150,ACCESS2,Current lack of health insurance among adults aged 18-64 years,2023,2025,17.8,14.1,21.6,17.8,14.2,21.8,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Cuba,3519150,CHECKUP,Visits to doctor for routine checkup within the past year among adults,2023,2025,70.6,66.5,74.6,65.9,61.4,70.4,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Cuba,3519150,DENTAL,Visited dentist or dental clinic in the past year among adults,2022,2025,51.4,47.2,55.0,50.8,46.7,54.4,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Cuba,3519150,CHOLSCREEN,Cholesterol screening among adults,2023,2025,84.2,82.0,86.4,80.8,78.1,83.5,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Cuba,3519150,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,2022,2025,56.3,50.4,61.2,46.5,40.8,51.4,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Cuba,3519150,MAMMOUSE,Mammography use among women aged 50-74 years,2022,2025,66.2,57.2,73.8,64.8,55.7,72.7,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Bernalillo,3506970,ACCESS2,Current lack of health insurance among adults aged 18-64 years,2023,2025,20.5,17.1,23.9,21.8,18.0,25.4,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Bernalillo,3506970,CHECKUP,Visits to doctor for routine checkup within the past year among adults,2023,2025,70.4,66.2,74.3,65.1,60.4,69.4,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Bernalillo,3506970,DENTAL,Visited dentist or dental clinic in the past year among adults,2022,2025,60.2,56.4,63.5,58.3,54.5,61.7,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Bernalillo,3506970,CHOLSCREEN,Cholesterol screening among adults,2023,2025,85.2,83.2,87.0,81.0,78.4,83.4,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Bernalillo,3506970,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,2022,2025,59.2,53.8,63.9,49.2,43.9,53.9,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Bernalillo,3506970,MAMMOUSE,Mammography use among women aged 50-74 years,2022,2025,67.9,58.9,75.2,66.7,57.4,74.2,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Rio Rancho,3563460,ACCESS2,Current lack of health insurance among adults aged 18-64 years,2023,2025,11.5,10.1,13.2,12.1,10.5,13.8,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Rio Rancho,3563460,CHECKUP,Visits to doctor for routine checkup within the past year among adults,2023,2025,68.9,64.6,73.1,66.4,61.8,70.7,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Rio Rancho,3563460,DENTAL,Visited dentist or dental clinic in the past year among adults,2022,2025,68.5,64.8,71.5,67.8,64.1,70.8,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Rio Rancho,3563460,CHOLSCREEN,Cholesterol screening among adults,2023,2025,86.2,84.4,87.9,84.2,82.3,86.2,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Rio Rancho,3563460,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,2022,2025,63.3,58.0,67.8,57.1,51.7,61.7,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Rio Rancho,3563460,MAMMOUSE,Mammography use among women aged 50-74 years,2022,2025,72.3,63.9,79.1,71.7,63.2,78.5,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx

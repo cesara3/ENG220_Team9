@@ -1,0 +1,28 @@
+location,place_fips,measure_id,measure,data_year,release_year,percent,ci95_low,ci95_high,age_adjusted_percent,age_adjusted_ci95_low,age_adjusted_ci95_high,estimate_type,source_url
+Cuba,3519150,DIABETES,Diagnosed diabetes among adults,2023,2025,17.6,15.3,20.0,13.8,11.9,15.8,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Cuba,3519150,BPHIGH,High blood pressure among adults,2023,2025,40.0,35.9,44.2,33.2,29.5,37.2,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Cuba,3519150,HIGHCHOL,High cholesterol among adults who have ever been screened,2023,2025,38.1,33.9,42.3,30.5,26.7,34.6,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Cuba,3519150,CHD,Coronary heart disease among adults,2023,2025,9.0,7.9,10.1,6.3,5.5,7.1,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Cuba,3519150,STROKE,Stroke among adults,2023,2025,4.8,4.3,5.4,3.6,3.2,3.9,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Cuba,3519150,CASTHMA,Current asthma among adults,2023,2025,10.0,8.8,11.3,10.4,9.1,11.7,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Cuba,3519150,COPD,Chronic obstructive pulmonary disease among adults,2023,2025,7.3,6.2,8.4,5.8,5.0,6.7,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Cuba,3519150,ARTHRITIS,Arthritis among adults,2023,2025,28.4,25.2,31.9,22.2,19.5,25.2,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Cuba,3519150,DEPRESSION,Depression among adults,2023,2025,22.4,19.1,26.0,24.2,20.7,28.0,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Bernalillo,3506970,DIABETES,Diagnosed diabetes among adults,2023,2025,15.7,13.8,17.9,12.2,10.6,14.0,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Bernalillo,3506970,BPHIGH,High blood pressure among adults,2023,2025,38.3,34.3,42.5,31.1,27.4,34.9,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Bernalillo,3506970,HIGHCHOL,High cholesterol among adults who have ever been screened,2023,2025,38.6,34.4,42.9,30.6,26.7,34.7,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Bernalillo,3506970,CHD,Coronary heart disease among adults,2023,2025,8.0,7.2,8.9,5.6,5.1,6.3,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Bernalillo,3506970,STROKE,Stroke among adults,2023,2025,4.2,3.9,4.6,3.1,2.9,3.4,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Bernalillo,3506970,CASTHMA,Current asthma among adults,2023,2025,9.4,8.3,10.7,9.5,8.3,10.8,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Bernalillo,3506970,COPD,Chronic obstructive pulmonary disease among adults,2023,2025,6.8,5.9,7.7,5.2,4.6,5.9,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Bernalillo,3506970,ARTHRITIS,Arthritis among adults,2023,2025,27.9,24.7,31.3,21.1,18.5,23.9,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Bernalillo,3506970,DEPRESSION,Depression among adults,2023,2025,22.1,18.8,25.8,23.4,20.0,27.2,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Rio Rancho,3563460,DIABETES,Diagnosed diabetes among adults,2023,2025,10.6,9.2,12.2,9.0,7.8,10.4,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Rio Rancho,3563460,BPHIGH,High blood pressure among adults,2023,2025,32.0,28.3,35.8,28.4,25.0,32.0,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Rio Rancho,3563460,HIGHCHOL,High cholesterol among adults who have ever been screened,2023,2025,34.3,30.3,38.4,29.5,25.7,33.5,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Rio Rancho,3563460,CHD,Coronary heart disease among adults,2023,2025,5.7,5.1,6.3,4.7,4.2,5.2,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Rio Rancho,3563460,STROKE,Stroke among adults,2023,2025,3.0,2.8,3.3,2.6,2.4,2.8,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Rio Rancho,3563460,CASTHMA,Current asthma among adults,2023,2025,9.6,8.4,10.8,9.5,8.4,10.8,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Rio Rancho,3563460,COPD,Chronic obstructive pulmonary disease among adults,2023,2025,5.2,4.6,5.8,4.4,3.9,4.9,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Rio Rancho,3563460,ARTHRITIS,Arthritis among adults,2023,2025,23.9,21.1,26.8,20.5,18.0,23.2,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
+Rio Rancho,3563460,DEPRESSION,Depression among adults,2023,2025,23.6,20.2,27.3,24.3,20.7,28.0,CDC model-based estimate,https://data.cdc.gov/d/eav7-hnsx
