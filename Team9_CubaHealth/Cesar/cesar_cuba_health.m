@@ -1,16 +1,3 @@
-% ENG 220 Team 9 - Cuba, NM Health Project
-% Cesar: Slide 2 (Clinics and services) and Slide 4 (Age demographics and risk factors)
-%
-% Reads three CSV files in this folder and saves three PNG graphs:
-%   cuba_clinics.csv          -> fig_clinic_services.png
-%   cuba_age_distribution.csv -> fig_age_distribution.png
-%   cuba_risk_factors.csv     -> fig_risk_factors.png
-%
-% Data sources:
-%   Clinics: PMS, Pueblo of Jemez, IHS, UNM Health websites (2026)
-%   Age: U.S. Census Bureau, ACS 2019-2023 5-year estimates (via Point2Homes)
-%   Risk factors: CDC PLACES, 2023 crude prevalence among adults
-%                 (model-based small-area estimates)
 
 clear; clc; close all;
 
